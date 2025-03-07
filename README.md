@@ -50,7 +50,8 @@ Deploy the model as a web application
 
 
 🤝 Contributors
-Ian Joseph K
-Aryan Patil
-Abhishek Raje
-Ramani Harsh Anilkumar
+
+- Ian Joseph K
+- Aryan Patil (https://github.com/aryanator)
+- Abhishek Raje
+- Ramani Harsh Anilkumar
