@@ -43,13 +43,13 @@ Existing HAR models suffer from:
 | 3D CNN (UCF-101)    | 91.65       | 89.96       | 90.82     | 91.10       |
 | **Swift-Spatio Flow** | **94.89**  | **94.37**  | **93.45** | **93.56** |
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 Train on larger datasets like Kinetics for better generalization
 Optimize computational cost for real-time performance
 Deploy the model as a web application
 
 
-##🤝 Contributors
+## 🤝 Contributors
 
 - Ian Joseph K
 - Aryan Patil (https://github.com/aryanator)
